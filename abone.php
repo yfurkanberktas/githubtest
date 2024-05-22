@@ -1,0 +1,1 @@
+<?php echo "rica etsem abone olur musun";?>
